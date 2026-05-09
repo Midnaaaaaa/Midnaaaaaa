@@ -1,19 +1,27 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/pol-roca-cerdá/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pol-roca-cerdá/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+
+  <a href="https://TU-USUARIO.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" height="28" />
+  </a>
+
+  <a href="https://youtube.com/@TU_CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=midnaaaaaa.midnaaaaaa&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=midnaaaaaa.midnaaaaaa" />
 </div>
 
 ###
@@ -22,50 +30,74 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I'm Pol from Barcelona 🇪🇸<br><br>
+
+🔭 I’m working as a Computer Vision Researcher at Hospital Universitario Vall d'Hebron, focusing on C++, OpenGL, and 3D rendering pipelines.<br><br>
+
+📚 I'm currently learning about Computer Graphics and Virtual Reality (MSc at UPC-FIB).<br><br>
+
+⚡ In my free time I love developing graphic applications, building custom game/physics engines from scratch, and diving deep into low-level rendering architecture.
+</p>
 
 ###
 
-<p align="left">I'm Pol from Barcelona<br><br>- 🔭 I’m working as a Computer Vision Researcher at Hospital Universitario Vall d'Hebron, focusing on C++, OpenGL, and 3D rendering pipelines.<br>- 📚 I'm currently learning about Computer Graphics and Virtual Reality (MSc at UPC-FIB).<br>- ⚡ In my free time I love developing graphic applications, building custom game/physics engines from scratch, and diving deep into low-level rendering architecture.</p>
+<h3 align="left">🌐 Portfolio</h3>
+
+<div align="center">
+  <a href="https://TU-USUARIO.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  Rendering experiments • Engine architecture • Computer Graphics • VR • OpenGL
+</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=midnaaaaaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=midnaaaaaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="220" />
 </div>
-
-###
