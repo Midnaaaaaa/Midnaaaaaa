@@ -1,3 +1,5 @@
+<h1 align="center">hey there 👋</h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/pol-roca-cerdá/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
@@ -20,7 +22,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
 ###
 
