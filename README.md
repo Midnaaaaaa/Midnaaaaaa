@@ -9,11 +9,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 
-  <a href="https://TU-USUARIO.github.io/" target="_blank">
+  <a href="https://midnaaaaaa.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" height="28" />
   </a>
 
-  <a href="https://youtube.com/@TU_CANAL" target="_blank">
+  <a href="https://www.youtube.com/@PolRocaCerdá" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
   </a>
 </div>
