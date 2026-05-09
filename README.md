@@ -51,12 +51,33 @@ I'm Pol from Barcelona 🇪🇸<br><br>
   </a>
 </div>
 
-<div align="center">
-  <video src="videos/viewer.mp4" width="48%" autoplay loop muted playsinline></video>&nbsp;
-  <video src="videos/pbr.mp4" width="48%" autoplay loop muted playsinline></video>
-  <video src="videos/path_tracer.mp4" width="48%" autoplay loop muted playsinline></video>&nbsp;
-  <video src="videos/physics.mp4" width="48%" autoplay loop muted playsinline></video>
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="50%">
+      <a href="LINK_AL_PROYECTO_1" target="_blank">
+        <img src="videos/viewer.gif" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="LINK_AL_PROYECTO_2" target="_blank">
+        <img src="videos/pbr.gif" width="100%" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <a href="LINK_AL_PROYECTO_3" target="_blank">
+        <img src="videos/path_tracer.gif" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="LINK_AL_PROYECTO_4" target="_blank">
+        <img src="videos/physics.gif" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ###
