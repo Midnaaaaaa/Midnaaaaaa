@@ -54,12 +54,12 @@ I'm Pol from Barcelona 🇪🇸<br><br>
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <a href="LINK_AL_PROYECTO_1" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HM_mXfrRwgQ" target="_blank">
         <img src="videos/viewer.gif" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="LINK_AL_PROYECTO_2" target="_blank">
+      <a href="https://www.youtube.com/watch?v=reN-rrXhxTQ&t=34s" target="_blank">
         <img src="videos/pbr.gif" width="100%" />
       </a>
     </td>
@@ -67,12 +67,12 @@ I'm Pol from Barcelona 🇪🇸<br><br>
   
   <tr>
     <td align="center" width="50%">
-      <a href="LINK_AL_PROYECTO_3" target="_blank">
+      <a href="https://www.youtube.com/watch?v=X_ba_X7btG4" target="_blank">
         <img src="videos/path_tracer.gif" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="LINK_AL_PROYECTO_4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qKr9djDUIvg" target="_blank">
         <img src="videos/physics.gif" width="100%" />
       </a>
     </td>
