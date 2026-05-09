@@ -45,16 +45,31 @@ I'm Pol from Barcelona 🇪🇸<br><br>
 ###
 
 <h3 align="left">🌐 Portfolio</h3>
-
 <div align="center">
   <a href="https://midnaaaaaa.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </div>
 
-<p align="center">
-  Rendering experiments • Engine architecture • Computer Graphics • VR • OpenGL
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <video src="./videos/viewer.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+    <td>
+      <video src="./videos/pbr.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video src="./videos/path_tracer.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+    <td>
+      <video src="./videos/physics.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
